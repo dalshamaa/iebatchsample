@@ -1,0 +1,9 @@
+{
+  "Action": "Export",
+  "ServerName": "servername.database.windows.net",
+  "DatabaseName": "testdb",
+  "SqlServerAdmin": "admin",
+  "SqlServerAdminPassword": "password",
+  "TargetFileName": "test2.bacpac",
+  "TargetContainerName": "exports"
+}

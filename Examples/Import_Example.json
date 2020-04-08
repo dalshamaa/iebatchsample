@@ -1,0 +1,9 @@
+{
+  "Action": "Import",
+  "ServerName": "servername.database.windows.net",
+  "DatabaseName": "testimport",
+  "SqlServerAdmin": "admin",
+  "SqlServerAdminPassword": "password",
+  "SourceFileName": "test2.bacpac",
+  "SourceContainerName": "exports"
+}
